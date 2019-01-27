@@ -19,8 +19,10 @@ For this config, you should put
 <br>
 __"dbName": "test"__ and __"dbPassword": "test123"__
 <br>
-In terminal, change to the current directory and type the following command
-to open the React App
+Open terminal and change to the current directory
+<br>
+Type the following command to open the React App
 __(Note: This may take you a while)__
 <br>
+`cd local`
 `sh deploy.sh`
