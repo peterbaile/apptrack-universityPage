@@ -1,5 +1,5 @@
 const fs = require('fs');
-const rawdata = fs.readFileSync('config.json');
+const rawdata = fs.readFileSync('../config.json');
 const data = JSON.parse(rawdata);
 const dbName = data.dbName;
 const dbPassword = data.dbPassword;

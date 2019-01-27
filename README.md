@@ -1,7 +1,7 @@
 # apptrack-universityPage
 a page for adding universities for college application process
 
-Pre-requisit:
+Pre-requisite:
 <br>
 Please have docker installed in your computer.
 <br>
@@ -23,4 +23,4 @@ In terminal, change to the current directory and type the following command
 to open the React App
 __(Note: This may take you a while)__
 <br>
-__sh deploy.sh__
+`sh deploy.sh`
