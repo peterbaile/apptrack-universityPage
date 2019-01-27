@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+  margin: 1%;
+  padding: 2%;
+  font-family: 'Lato', sans-serif;
+  font-size: 130%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button{
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-size: 80%;
+}
+
+input{
+  font-family: 'Lato', sans-serif;
+  font-size: 80%;
+}
+
+.universityform{
+}
+
+input{
+  width: 20%;
+}
+
+.field{
+  text-transform: capitalize;
+  margin: 1%;
+}
