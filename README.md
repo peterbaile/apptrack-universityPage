@@ -25,4 +25,5 @@ Type the following command to open the React App
 __(Note: This may take you a while)__
 <br>
 `cd local`
+<br>
 `sh deploy.sh`
