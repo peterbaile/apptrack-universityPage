@@ -15,7 +15,7 @@ Duplicate __config_sample.json__ file and name it
 __config.json__. Change the empty string to the value of 
 corresponding fields wrapped by "".
 <br>
-For this config, you should put
+For this config, you should put (just for demo use)
 <br>
 __"dbName": "test"__ and __"dbPassword": "test123"__
 <br>
