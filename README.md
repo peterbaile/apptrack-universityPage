@@ -2,7 +2,6 @@
 a page for adding universities for college application process
 
 ### Architecture:
-<br>
 Frontend: React, Apollo Server
 <br>
 Backend: NodeJS, GraphQL
@@ -10,13 +9,11 @@ Backend: NodeJS, GraphQL
 Database: MongoDB
 
 ### Pre-requisite:
-<br>
 Please have docker installed in your computer.
 <br>
 https://www.docker.com/get-started
 
 ### Instructions:
-<br>
 Download the file onto your computer.
 <br>
 Duplicate __config_sample.json__ file and name it
