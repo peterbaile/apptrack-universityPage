@@ -7,6 +7,8 @@ Frontend: React, Apollo Server
 Backend: NodeJS, GraphQL
 <br>
 Database: MongoDB
+<br>
+Deployment: Docker
 
 ### Pre-requisite:
 Please have docker installed in your computer.
