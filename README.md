@@ -35,3 +35,13 @@ __(Note: This may take you a while)__
 `cd local`
 <br>
 `sh deploy.sh`
+
+### To-Do:
+- [ ] Authentication with JWT
+- [ ] Add more fields to university
+- [ ] Collapse/ Expand view
+
+### Completed:
+- [x] Display universities
+- [x] Add new university
+- [x] Update exisitng universities
