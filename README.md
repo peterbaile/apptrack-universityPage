@@ -1,7 +1,7 @@
 # apptrack-universityPage
 a page for adding universities for college application process
 
-Architecture:
+### Architecture:
 <br>
 Frontend: React, Apollo Server
 <br>
@@ -9,13 +9,13 @@ Backend: NodeJS, GraphQL
 <br>
 Database: MongoDB
 
-Pre-requisite:
+### Pre-requisite:
 <br>
 Please have docker installed in your computer.
 <br>
 https://www.docker.com/get-started
 
-Instructions:
+### Instructions:
 <br>
 Download the file onto your computer.
 <br>
