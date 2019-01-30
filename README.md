@@ -37,6 +37,7 @@ __(Note: This may take you a while)__
 - [ ] Authentication with JWT
 - [ ] Add more fields to university
 - [ ] Collapse/ Expand view
+- [ ] Delete university
 
 ### Completed:
 - [x] Display universities
